@@ -1,6 +1,7 @@
 Archivo de prueba en la rama exportar.
 
 Este es el texto inicial del archivo.
-Linea 1: Hola mundo.
-Linea 2: Esta linea sera modificada despues.
-Linea 3: Esta linea sera eliminada despues.
+Linea 1: Hola mundo (MODIFICADA): hola desde la rama exportar.
+Linea 2: Esta linea fue modificada correctamente.
+Linea 4: Esta es una linea NUEVA que se agrego en el paso 4.
+Linea 5: Otra linea agregada para demostrar el cambio.
