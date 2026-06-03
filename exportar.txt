@@ -1,0 +1,6 @@
+Archivo de prueba en la rama exportar.
+
+Este es el texto inicial del archivo.
+Linea 1: Hola mundo.
+Linea 2: Esta linea sera modificada despues.
+Linea 3: Esta linea sera eliminada despues.
